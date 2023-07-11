@@ -244,9 +244,9 @@ text-align: center;
     font-size: 40px;
  
     font-weight: 400;
-  padding-top:
-
 }
+
+
 .last{
 
     text-align: center;
@@ -255,6 +255,5 @@ color: rgba(255, 255, 255, 0.40);
 font-family: Lato;
 font-size: 16px;
 
-font-weight: 400;
+font-weight: 400;}
 
-}
